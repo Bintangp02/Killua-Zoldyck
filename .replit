@@ -1,0 +1,1 @@
+run = "node . --db mongodb+srv://Bintangp02:Bintangp02@bntgp02.k2q5j.mongodb.net/?retryWrites=true&w=majority"
